@@ -1,6 +1,6 @@
 # Exa Websets MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@exa-labs/websets-mcp-server)](https://smithery.ai/server/@exa-labs/websets-mcp-server)
+[![smithery badge](https://smithery.ai/badge/arjunkmrm/websets)](https://smithery.ai/server/arjunkmrm/websets) [![smithery badge](https://smithery.ai/badge/@exa-labs/websets-mcp-server)](https://smithery.ai/server/@exa-labs/websets-mcp-server)
 
 A Model Context Protocol (MCP) server that integrates [Exa's Websets API](https://docs.exa.ai/reference/websets) with Claude Desktop, Cursor, Windsurf, and other MCP-compatible clients.
 
